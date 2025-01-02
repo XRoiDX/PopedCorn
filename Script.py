@@ -15,9 +15,8 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Fɪʟᴇꜱ Fᴏʀ Yᴏᴜ Cᴀɴ Sᴇᴀʀᴄʜ Mʏ 
 ✯ Mʏ Vᴇʀꜱɪᴏɴ: ʜᴀʀᴅᴄᴏʀᴇ-ʙᴏᴛ ᴠ4.5.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com/MrMKN/PROFESSOR-BOT>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑-𝐁𝐎𝐓</a>
-
-<b>ᴅᴇᴠ: <a herf=https://t.me/Mr_MKN>ᴍʀ.ᴍᴋɴ ᴛɢ</a></b>"""
+- ഷിബുദിനം 🤍
+"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
@@ -126,11 +125,11 @@ Tʜɪs Mᴏᴅᴜʟᴇ Oɴʟʏ Wᴏʀᴋs Fᴏʀ Mʏ Aᴅᴍɪɴs
 • /clear_junk_group - Cʟᴇᴀʀ Aᴅᴅ Rᴇᴍᴏᴠᴇᴅ Gʀᴏᴜᴘ Oʀ Dᴇᴀᴄᴛɪᴠᴀᴛᴇᴅ Gʀᴏᴜᴘs Oɴ Dʙ"""
 
 
-    STATUS_TXT = """<b>◉ ᴛᴏᴛᴀʟ ꜰɪʟᴇꜱ: <code>{}</code>
-◉ ᴛᴏᴛᴀʟ ᴜꜱᴇʀꜱ: <code>{}</code>  
-◉ ᴛᴏᴛᴀʟ ᴄʜᴀᴛꜱ: <code>{}</code>
-◉ ᴜꜱᴇᴅ ᴅʙ ꜱɪᴢᴇ: <code>{}</code>
-◉ ꜰᴇᴇᴇ ᴅʙ ꜱɪᴢᴇ: <code>{}</code></b>"""
+    STATUS_TXT = """<b>◉ 📂 ᴛᴏᴛᴀʟ ꜰɪʟᴇꜱ: <code>{}</code>
+◉ 👤 ᴛᴏᴛᴀʟ ᴜꜱᴇʀꜱ: <code>{}</code>  
+◉ 👥 ᴛᴏᴛᴀʟ ᴄʜᴀᴛꜱ: <code>{}</code>
+◉ 🕸️ ᴜꜱᴇᴅ ᴅʙ ꜱɪᴢᴇ: <code>{}</code>
+◉ 🫙 ꜰʀᴇᴇ ᴅʙ ꜱɪᴢᴇ: <code>{}</code></b>"""
 
     LOG_TEXT_G = """<b>#ɴᴇᴡ_ɢʀᴏᴜᴩ
 
