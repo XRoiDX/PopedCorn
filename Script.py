@@ -15,6 +15,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Fɪʟᴇꜱ Fᴏʀ Yᴏᴜ Cᴀɴ Sᴇᴀʀᴄʜ Mʏ 
 ✯ Mʏ Vᴇʀꜱɪᴏɴ: ʜᴀʀᴅᴄᴏʀᴇ-ʙᴏᴛ ᴠ4.5.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
+- <a href='https://t.me/popedcorn'>Cʟɪᴄᴋ Hᴇʀᴇ 👾</a>
 - ഷിബുദിനം 🤍
 """
 
