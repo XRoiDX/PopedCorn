@@ -36,7 +36,7 @@ async def start(client, message):
             InlineKeyboardButton("🔎 Sᴇᴀʀᴄʜ Fɪʟᴇꜱ Iɴ Yᴏᴜʀ Cʜᴀᴛ 🔍", switch_inline_query_current_chat='')
             ],[
             InlineKeyboardButton("Iɴʟɪɴᴇ Sᴇᴀʀᴄʜ 🔎", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("Cʜᴀɴɴᴇʟ 🔈", url="https://t.me/zooistore")
+            InlineKeyboardButton("Cʜᴀɴɴᴇʟ 🔈", url="https://t.me/offltbw")
             ],[      
             InlineKeyboardButton("Hᴇʟᴩ 🕸️", callback_data="help"),
             InlineKeyboardButton("Aʙᴏᴜᴛ ✨", callback_data="about")
@@ -72,7 +72,7 @@ async def start(client, message):
             InlineKeyboardButton("🔎 Sᴇᴀʀᴄʜ Fɪʟᴇꜱ Iɴ Yᴏᴜʀ Cʜᴀᴛ 🔍", switch_inline_query_current_chat='')
             ],[
             InlineKeyboardButton("Iɴʟɪɴᴇ Sᴇᴀʀᴄʜ 🔎", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("Cʜᴀɴɴᴇʟ 🔈", url="https://t.me/zooistore")
+            InlineKeyboardButton("Cʜᴀɴɴᴇʟ 🔈", url="https://t.me/offltbw")
             ],[      
             InlineKeyboardButton("Hᴇʟᴩ 🕸️", callback_data="help"),
             InlineKeyboardButton("Aʙᴏᴜᴛ ✨", callback_data="about")
