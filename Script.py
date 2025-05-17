@@ -8,14 +8,14 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Fɪʟᴇꜱ Fᴏʀ Yᴏᴜ Cᴀɴ Sᴇᴀʀᴄʜ Mʏ 
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/prndevika_bot>ᴀɴʜᴏɴɴʏᴍᴜꜱ</a>
+✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/TheW_ContactBot>ᴀɴʜᴏɴɴʏᴍᴜꜱ</a>
 ✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
 ✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
 ✯ Mʏ Vᴇʀꜱɪᴏɴ: ʜᴀʀᴅᴄᴏʀᴇ-ʙᴏᴛ ᴠ4.5.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- <a href='https://t.me/popedcorn'>Cʟɪᴄᴋ Hᴇʀᴇ 👾</a>
+- <a href='https://t.me/offltbw'>Cʟɪᴄᴋ Hᴇʀᴇ 👾</a>
 - ഷിബുദിനം 🤍
 """
 
